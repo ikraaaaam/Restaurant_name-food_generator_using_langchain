@@ -1,1 +1,1 @@
-This is a simple LLM project featuring Langchain to recommend "Restaurant Name" and following the chain recommending "Food Items" for that restaurant according to a given 'cuisine'. Streamlit was used to create the web interface. 
+*This is a simple LLM project featuring Langchain to recommend "Restaurant Name" and following the chain recommending "Food Items" for that restaurant according to a given 'cuisine'. Streamlit was used to create the web interface. 

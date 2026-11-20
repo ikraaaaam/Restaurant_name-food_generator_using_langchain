@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Secrets / local config — never commit real keys
+.env
+secret_key.py
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
